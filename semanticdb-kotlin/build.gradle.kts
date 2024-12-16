@@ -52,8 +52,9 @@ protobuf {
 
     generatedFilesBaseDir = kotlin.sourceSets.main.get().kotlin.srcDirs.first().path.split(":")[0].removeSuffix("main/kotlin")
 
-    plugins {
+    //TODO see if this is still needed, and fix it if it is
+/*    plugins {
         kotlin { }
-    }
+    }*/
 
 }

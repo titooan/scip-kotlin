@@ -5,3 +5,4 @@ semanticdb-*.jar
 *.lsif
 generated/*
 *.svg
+local.properties
